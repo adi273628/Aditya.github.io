@@ -1,30 +1,10 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# <p>This is My Personal Portfolio</p>
 
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)]
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]
+[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](www.linkedin.com/in/adityasinghajnifm)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-24%20May%202022-yellow.svg)]
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+ <p align="justify">This website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using HTML, Javascript and CSS.</p>
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Please hit like button, if you have any feedback or ideas for this webpage. Leave a :star: &nbsp;if you like it!
